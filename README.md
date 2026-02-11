@@ -19,6 +19,8 @@ Le backbone est constitué de **4 routeurs Cisco** configurés en **RIPv2** :
     - [Documentation technique](Documentation/sdwan-lab-doc.md) (Plans d'adressage, configuration RIP).
     - [Rapport de tests](Documentation/tests.md) (Validation du failover).
 - **/Demos** : Vidéo de démonstration des basculements en temps réel.
+L'architecture complète a été conçue sur GNS3. 
+- **[Accéder au Schéma Réseau (XML)](Architecture/sdwan-stormshield-schema.xml)** : Fichier compatible avec Diagrams.net (Draw.io).
 
 ## 📺 Démonstration Vidéo
 Une vidéo complète des tests de basculement est disponible dans le dossier `/Demos`.
