@@ -1,5 +1,11 @@
 # Lab SD-WAN & SLA Monitoring - Stormshield (WAN Core RIPv2)
 
+![GNS3](https://img.shields.io/badge/GNS3-Partner-blue?style=for-the-badge&logo=gns3&logoColor=white)
+![Stormshield](https://img.shields.io/badge/Stormshield-SNS-8CC63F?style=for-the-badge&logo=stormshield&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-Routing-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![SD-WAN](https://img.shields.io/badge/Architecture-SD--WAN-orange?style=for-the-badge)
+![Protocol](https://img.shields.io/badge/Routing-RIPv2-red?style=for-the-badge)
+
 Ce laboratoire démontre la mise en œuvre d'une solution **SD-WAN avec monitoring SLA** utilisant des pare-feux Stormshield (SNS). L'infrastructure repose sur un cœur de réseau (WAN Core) utilisant le routage dynamique pour assurer la connectivité inter-sites.
 
 ## 🌐 Cœur de Réseau & Routage
